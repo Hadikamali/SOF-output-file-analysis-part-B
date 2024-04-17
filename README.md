@@ -53,170 +53,43 @@ General information about the files in the `SOFDATA` folder:
 ## ***Using data visualization, you accept or reject the following hypotheses:***
 
 **1**- Questions with an `Accepted` answer receive more `Views`.
-<a href="https://github.com/" style="display: inline-block; padding: 8px 16px; background-color: #808080; color: #800080; text-decoration: none; border: none; border-radius: 5px; font-family: Arial, sans-serif; text-align: center;"
-    onmouseover="this.style.backgroundColor='#666'; this.style.color='#ffff00';"
-    onmouseout="this.style.backgroundColor='#808080'; this.style.color='#800080';">
-    Go to Answar
-</a>
+[Go to Answar](https://github.com “Go to Answar”)
 
 
 **2**- Questions with more `Views` receive more `Comments`.<br>
 [Go to Answar](https://github.com/)
 
 **3**- An answer receives more likes if the related question has many likes.<br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Button Style Link</title>
-<style>
-    .button-style {
-        display: inline-block;
-        padding: 8px 16px;
-        background-color: #808080; 
-        color: #800080; 
-        text-decoration: none;
-        border: none;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
-    .button-style:hover {
-        background-color: #666; 
-        color: #ffff00; 
-    }
-</style>
-</head>
+
 <body>
-
 <a href="https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q3/README.md" class="button-style">Go to Answar</a>
-
 </body>
-</html>
 
 **4**- Individuals with high `Reputation` tend to respond to questions that receive many likes.<br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Button Style Link</title>
-<style>
-    .button-style {
-        display: inline-block;
-        padding: 8px 16px;
-        background-color: #808080;
-        color: #800080; 
-        text-decoration: none;
-        border: none;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
-    .button-style:hover {
-        background-color: #666; 
-        color: #ffff00; 
-    }
-</style>
-</head>
+
 <body>
-
 <a href="https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q4/README.md" class="button-style">Go to Answar</a>
-
 </body>
-</html>
+
 
 **5**- Individuals with high `Reputation` tend to respond to closed questions.<br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Button Style Link</title>
-<style>
-    .button-style {
-        display: inline-block;
-        padding: 8px 16px;
-        background-color: #808080; 
-        color: #800080; 
-        text-decoration: none;
-        border: none;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
-    .button-style:hover {
-        background-color: #666; 
-        color: #ffff00; 
-    }
-</style>
-</head>
+
 <body>
-
 <a href="https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q5/README.md" class="button-style">Go to Answar</a>
-
 </body>
-</html>
 
 **6**- Individuals with a higher number of `Badges` have higher `Reputation`.<br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Button Style Link</title>
-<style>
-    .button-style {
-        display: inline-block;
-        padding: 8px 16px;
-        background-color: #808080;
-        color: #800080; 
-        text-decoration: none;
-        border: none;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
-    .button-style:hover {
-        background-color: #666; 
-        color: #ffff00; 
-    }
-</style>
-</head>
+
 <body>
-
 <a href="https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q6/README.md" class="button-style">Go to Answar</a>
-
 </body>
-</html>
 
 **7**- The shorter the time delay in responding (the less time between the question and the answer), the higher the chance of the answer being accepted.<br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Button Style Link</title>
-<style>
-    .button-style {
-        display: inline-block;
-        padding: 8px 16px;
-        background-color: #808080; 
-        color: #800080; 
-        text-decoration: none;
-        border: none;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
-    .button-style:hover {
-        background-color: #666; 
-        color: #ffff00; 
-    }
-</style>
-</head>
+
 <body>
-
 <a href="https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q7/README.md" class="button-style">Go to Answar</a>
-
 </body>
-</html>
+
 
 **8**- If we categorize questions into four groups: unanswered, with few answers, with a moderate number of answers, and with many answers, the likelihood of getting likes increases from right to left.<br>
 <!DOCTYPE html>
