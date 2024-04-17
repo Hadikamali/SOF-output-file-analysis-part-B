@@ -53,35 +53,12 @@ General information about the files in the `SOFDATA` folder:
 ## ***Using data visualization, you accept or reject the following hypotheses:***
 
 **1**- Questions with an `Accepted` answer receive more `Views`.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Button Style Link</title>
-<style>
-    .button-style {
-        display: inline-block;
-        padding: 8px 16px;
-        background-color: #808080; 
-        color: #800080; 
-        text-decoration: none;
-        border: none;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
-    .button-style:hover {
-        background-color: #666; 
-        color: #ffff00; 
-    }
-</style>
-</head>
-<body>
+<a href="https://github.com/" style="display: inline-block; padding: 8px 16px; background-color: #808080; color: #800080; text-decoration: none; border: none; border-radius: 5px; font-family: Arial, sans-serif; text-align: center;"
+    onmouseover="this.style.backgroundColor='#666'; this.style.color='#ffff00';"
+    onmouseout="this.style.backgroundColor='#808080'; this.style.color='#800080';">
+    Go to Answar
+</a>
 
-<a href="https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q1/README.md" class="button-style">Go to Answar</a>
-
-</body>
-</html>
 
 **2**- Questions with more `Views` receive more `Comments`.<br>
 <!DOCTYPE html>
