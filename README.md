@@ -2,6 +2,12 @@
 
 General information about the files in the `SOFDATA` folder:
 
+<a href="https://github.com/" style="display: inline-block; padding: 8px 16px; background-color: #808080; color: #800080; text-decoration: none; border: none; border-radius: 5px; font-family: Arial, sans-serif; text-align: center;"
+    onmouseover="this.style.backgroundColor='#666'; this.style.color='#ffff00';"
+    onmouseout="this.style.backgroundColor='#808080'; this.style.color='#800080';">
+    Go to Answar
+</a>
+
 
 ### Consider the following data (located in the specified folder):
 ----
