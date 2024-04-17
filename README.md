@@ -61,35 +61,7 @@ General information about the files in the `SOFDATA` folder:
 
 
 **2**- Questions with more `Views` receive more `Comments`.<br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Button Style Link</title>
-<style>
-    .button-style {
-        display: inline-block;
-        padding: 8px 16px;
-        background-color: #808080; 
-        color: #800080;
-        text-decoration: none;
-        border: none;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
-    .button-style:hover {
-        background-color: #666; 
-        color: #ffff00; 
-    }
-</style>
-</head>
-<body>
-
-<a href="https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q2/README.md" class="button-style">Go to Answar</a>
-
-</body>
-</html>
+[Go to Answar](https://github.com/)
 
 **3**- An answer receives more likes if the related question has many likes.<br>
 <!DOCTYPE html>
