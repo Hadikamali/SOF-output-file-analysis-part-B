@@ -53,27 +53,27 @@ General information about the files in the `SOFDATA` folder:
 ## ***Using data visualization, you accept or reject the following hypotheses:***
 
 **1**- Questions with an `Accepted` answer receive more `Views`.
-[Go to Answar]([https://github.com](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q1/README.md)
+[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q1/README.md)
 
 
 **2**- Questions with more `Views` receive more `Comments`.<br>
-[Go to Answar]([https://github.com](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q2/README.md)/)
+[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q2/README.md)
 
 **3**- An answer receives more likes if the related question has many likes.<br>
 
-[Go to Answar]([https://github.com](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q3/README.md)/)
+[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q3/README.md)
 
 
 **4**- Individuals with high `Reputation` tend to respond to questions that receive many likes.<br>
 
-[Go to Answar]([https://github.com](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q4/README.md)/)
+[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q4/README.md)
 
 
 **5**- Individuals with high `Reputation` tend to respond to closed questions.<br>
-[Go to Answar]([https://github.com](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q5/README.md)/)
+[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q5/README.md)
 
 **6**- Individuals with a higher number of `Badges` have higher `Reputation`.<br>
-[Go to Answar]([https://github.com](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q6/README.md)/)
+[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q6/README.md)
 
 **7**- The shorter the time delay in responding (the less time between the question and the answer), the higher the chance of the answer being accepted.<br>
 [Go to Answar]([https://github.com](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q7/README.md)/)
