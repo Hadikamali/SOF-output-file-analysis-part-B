@@ -53,7 +53,7 @@ General information about the files in the `SOFDATA` folder:
 ## ***Using data visualization, you accept or reject the following hypotheses:***
 
 **1**- Questions with an `Accepted` answer receive more `Views`.
-```[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q1/README.md)```
+[Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q1/README.md)
 
 
 **2**- Questions with more `Views` receive more `Comments`.
