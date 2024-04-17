@@ -25,14 +25,14 @@ General information about the files in the `SOFDATA` folder:
 * **Number of comments** .<br>
 * **Closure date (only not null if the question has been closed)** .<br>
 * **Number of times the question was marked as 'Favorite'** .<br>
-<br>
+
 ```bash
     3- The 'Q-A' table, which includes the following information from the questions and answers published on 'SOF':
 ```
 * **Question number** .<br>
 * **Answer number** .<br>
 * **Is the answer marked as 'Accepted'** .<br>
-<br>
+
 ```bash
     4- The 'U' table includes the following information from active individuals on 'SOF' (askers or responders):
 ```
@@ -41,7 +41,7 @@ General information about the files in the `SOFDATA` folder:
 * **Number of times the person's page was viewed** .<br>
 * **Number of 'UPvotes'** .<br>
 * **Number of 'Downvotes'** .<br>
-<br>
+
 ```bash
     5- The 'user-badge' table, which contains the following information about individuals:
 ```
