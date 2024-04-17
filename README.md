@@ -15,7 +15,7 @@ General information about the files in the `SOFDATA` folder:
 * **Number of comments** .<br>
 * **Closure date (only not null if the answer has been closed)** .<br>
 <br>
-----<br>
+----
     2- The 'Question' table, which contains the following information from the questions published on 'SOF':
 
 * **Question number** .<br>
@@ -27,7 +27,7 @@ General information about the files in the `SOFDATA` folder:
 * **Closure date (only not null if the question has been closed)** .<br>
 * **Number of times the question was marked as 'Favorite'** .<br>
 <br>
----<br>
+---
     3- The 'Q-A' table, which includes the following information from the questions and answers published on 'SOF':
 
 * **Question number** .<br>
