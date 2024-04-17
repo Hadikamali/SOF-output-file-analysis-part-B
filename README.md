@@ -3,9 +3,9 @@
 General information about the files in the `SOFDATA` folder:
 
 ### Consider the following data (located in the specified folder):
-----
+```bash
     1- The `Answer` table, which includes the following information from the answers published on `SOF`:
-
+```
 
 * **Answer number** .<br>
 * **Date of the answer** .<br>
@@ -14,9 +14,9 @@ General information about the files in the `SOFDATA` folder:
 * **Number of comments** .<br>
 * **Closure date (only not null if the answer has been closed)** .<br>
 <br>
-----
+```bash
     2- The 'Question' table, which contains the following information from the questions published on 'SOF':
-
+```
 * **Question number** .<br>
 * **Date of the question** .<br>
 * **Number of votes for the question** .<br>
@@ -26,25 +26,25 @@ General information about the files in the `SOFDATA` folder:
 * **Closure date (only not null if the question has been closed)** .<br>
 * **Number of times the question was marked as 'Favorite'** .<br>
 <br>
----
+```bash
     3- The 'Q-A' table, which includes the following information from the questions and answers published on 'SOF':
-
+```
 * **Question number** .<br>
 * **Answer number** .<br>
 * **Is the answer marked as 'Accepted'** .<br>
 <br>
----
+```bash
     4- The 'U' table includes the following information from active individuals on 'SOF' (askers or responders):
-
+```
 * **Person's ID** .<br>
 * **Person's 'Reputation'** .<br>
 * **Number of times the person's page was viewed** .<br>
 * **Number of 'UPvotes'** .<br>
 * **Number of 'Downvotes'** .<br>
 <br>
----
+```bash
     5- The 'user-badge' table, which contains the following information about individuals:
-
+```
 *  **Person's ID** .<br>
 *  **Name of the 'badge' received by the person"** .<br>
 <br>
