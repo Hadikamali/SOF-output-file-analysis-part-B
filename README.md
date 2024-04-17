@@ -56,39 +56,39 @@ General information about the files in the `SOFDATA` folder:
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q1/README.md)
 
 
-**2**- Questions with more `Views` receive more `Comments`.<br>
+**2**- Questions with more `Views` receive more `Comments`.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q2/README.md)
 
 
-**3**- An answer receives more likes if the related question has many likes.<br>
+**3**- An answer receives more likes if the related question has many likes.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q3/README.md)
 
 
-**4**- Individuals with high `Reputation` tend to respond to questions that receive many likes.<br>
+**4**- Individuals with high `Reputation` tend to respond to questions that receive many likes.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q4/README.md)
 
 
-**5**- Individuals with high `Reputation` tend to respond to closed questions.<br>
+**5**- Individuals with high `Reputation` tend to respond to closed questions.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q5/README.md)
 
 
-**6**- Individuals with a higher number of `Badges` have higher `Reputation`.<br>
+**6**- Individuals with a higher number of `Badges` have higher `Reputation`.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q6/README.md)
 
 
-**7**- The shorter the time delay in responding (the less time between the question and the answer), the higher the chance of the answer being accepted.<br>
+**7**- The shorter the time delay in responding (the less time between the question and the answer), the higher the chance of the answer being accepted.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q7/README.md)
 
 
-**8**- If we categorize questions into four groups: unanswered, with few answers, with a moderate number of answers, and with many answers, the likelihood of getting likes increases from right to left.<br>
+**8**- If we categorize questions into four groups: unanswered, with few answers, with a moderate number of answers, and with many answers, the likelihood of getting likes increases from right to left.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q8/README.md)
 
 
-**9**- The number of `Views` a question receives correlates with the number of likes it gets.<br>
+**9**- The number of `Views` a question receives correlates with the number of likes it gets.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q9/README.md)
 
 
-**10**- If individuals are divided into three categories of `Low-Medium-High Reputation`, the   questions from individuals with `High Reputation` receive more likes.<br>
+**10**- If individuals are divided into three categories of `Low-Medium-High Reputation`, the questions from individuals with `High Reputation` receive more likes.
 [Go to Answar](https://github.com/Hadikamali/SOF-output-file-analysis-part-two/tree/main/Answer-Q10/README.md)
 
 
