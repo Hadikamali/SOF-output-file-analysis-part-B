@@ -13,7 +13,7 @@ General information about the files in the `SOFDATA` folder:
 * **Responder's ID** .<br>
 * **Number of comments** .<br>
 * **Closure date (only not null if the answer has been closed)** .<br>
-<br>
+
 ```bash
     2- The 'Question' table, which contains the following information from the questions published on 'SOF':
 ```
