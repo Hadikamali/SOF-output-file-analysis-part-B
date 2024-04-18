@@ -8,4 +8,5 @@ The answer is **Negative** because individuals with high reputation respond to a
 
 Correlation: -0.0017120699859088503
 
-<img src="https://github.com/Hadikamali/SOF-output-file-analysis-part-B/blob/main/Answer-Q4/Result%20question%204.png" width="500" height="450">
+<img src="https://github.com/Hadikamali/SOF-output-file-analysis-part-B/blob/main/Answer-Q4/Result%20question%204-1.png" width="500" height="450">
+<img src="https://github.com/Hadikamali/SOF-output-file-analysis-part-B/blob/main/Answer-Q4/Result%20question%204-2.png" width="500" height="450">
