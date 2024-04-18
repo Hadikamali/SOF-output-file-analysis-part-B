@@ -6,4 +6,4 @@ Questions with an `Accepted` answer receive more `Views`.
 
 The answer is ****positive****, but not excessively so as it may relate to the site's algorithm.
 
->![Answear](./Result question 1.png)
+>![Answear](./Result%20question%201.png)
