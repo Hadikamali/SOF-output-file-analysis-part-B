@@ -1,6 +1,8 @@
 # ****SOF output file analysis****
 
-General information about the files in the `SOFDATA` folder:
+General information about the files in the `SOF-OFA` folder:
+
+[Go to Folder SOF-OFA](https://github.com/Hadikamali/SOF-output-file-analysis-part-A/tree/main/SOF-OFA)
 
 ### Consider the following data (located in the specified folder):
 ```bash
