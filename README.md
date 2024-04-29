@@ -2,7 +2,7 @@
 
 General information about the files in the `SOF-OFA` folder:
 
-[Go to Folder SOF-OFA](https://drive.google.com/drive/folders/1IhZcCoqHQuE_E8T6JtG1WAsSqN-iB9Ss?usp=sharing)
+[Go to Folder SOF-DATA](https://drive.google.com/drive/folders/1IhZcCoqHQuE_E8T6JtG1WAsSqN-iB9Ss?usp=sharing)
 
 ### Consider the following data (located in the specified folder):
 ```bash
